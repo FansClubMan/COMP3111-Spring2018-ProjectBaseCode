@@ -1,5 +1,13 @@
 # HKUST COMP3111 Software Engineering (Spring 2018)
 
+Team Name: We just wanna pass the course
+
+Team members:
+
+Wong Man Nok (mnwongab@connect.ust.hk)
+Wong Chin Chi (ccwongap@connect.ust.hk)
+Lee Chun Yin (cyleeaq@connect.ust.hk)
+
 This is the modified README for the dev-raymond branch
 sorry, this is the second time to change readme.
 
