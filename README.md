@@ -1,5 +1,13 @@
 # HKUST COMP3111 Software Engineering (Spring 2018)
 
+Team Name: We just wanna past this course
+
+Team Members:
+
+WONG Man Nok (mnwongab@connect.ust.hk), Team Leader
+WONG Chin Chi (ccwongap@connect.ust.hk)
+LEE Chun Yin (cyleeaq@connect.ust.hk)
+
 This is the modified README for the mnwongab branch 
 
 Sorry, here is my 2nd attempt to make changes to README
