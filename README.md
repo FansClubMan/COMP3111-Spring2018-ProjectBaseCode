@@ -2,6 +2,8 @@
 
 This is the modified README for the mnwongab branch 
 
+Sorry, here is my 2nd attempt to make changes to README
+
 [This README file in a website format](https://hkpeterpeter.github.io/COMP3111-Spring2018-ProjectBaseCode/)
 
 Quick reference links:
