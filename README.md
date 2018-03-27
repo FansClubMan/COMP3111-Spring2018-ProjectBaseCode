@@ -1,6 +1,8 @@
 # HKUST COMP3111 Software Engineering (Spring 2018)
 
 This is the modified README for the dev-raymond branch
+sorry, this is the second time to change readme
+
 [This README file in a website format](https://hkpeterpeter.github.io/COMP3111-Spring2018-ProjectBaseCode/)
 
 Quick reference links:
